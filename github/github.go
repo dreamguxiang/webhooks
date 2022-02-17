@@ -65,7 +65,7 @@ const (
 	RepositoryEvent                          Event = "repository"
 	RepositoryVulnerabilityAlertEvent        Event = "repository_vulnerability_alert"
 	SecurityAdvisoryEvent                    Event = "security_advisory"
-	StarsEvent                               Event = "stars"
+	StarsEvent                               Event = "star"
 	StatusEvent                              Event = "status"
 	TeamEvent                                Event = "team"
 	TeamAddEvent                             Event = "team_add"
